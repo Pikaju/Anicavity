@@ -1,0 +1,15 @@
+- 2D Sidescroller
+- Multiplayer
+	- Monster-Players (?)
+- Infinite landscape
+- Voxel / Tile based
+- Dynamic Lighting
+- Quests
+	- Find Item
+	- Kill Monster
+	- Discover strongholds
+- Boss-Monsters
+	- Big rooms
+	- Big reward
+- Construct weapons (???)
+- No building
